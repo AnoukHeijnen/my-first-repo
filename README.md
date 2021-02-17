@@ -3,4 +3,4 @@ Data Visualisation
 
 [zuyd.nl](https://www.zuyd.nl)
 
-![omschrijving](url)
+![Anouk Heijnen](https://avatars.githubusercontent.com/u/79210284?s=60&v=4)
