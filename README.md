@@ -1,4 +1,4 @@
-# my-first-repo
+# assignments
 Data Visualisation
 
 [zuyd.nl](https://www.zuyd.nl)
